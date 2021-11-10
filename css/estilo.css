@@ -1,0 +1,14 @@
+.sobre{
+    width: 100%;
+    display: inline-flex;
+    grid-column: 2;
+    
+}
+
+.sobre p{
+    width: 60%;
+}
+
+.sobre img{
+    width: 40%;
+}
