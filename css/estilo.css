@@ -1,14 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
 .sobre{
     width: 100%;
     display: inline-flex;
-    grid-column: 2;
-    
+
 }
 
 .sobre p{
-    width: 60%;
+    font-size: 18px;
+    margin: 10px;
+    width: 70%;
 }
 
 .sobre img{
-    width: 40%;
+    display: flex;
+    direction: ltr;
+    width: 300px;
+    height: 200px;
+}
+
+.educacao img{
+    margin: 10px;
+    width: 80px;
+    height: 28px;
+}
+
+.estatisticas{
+    display: inline-flex;
+    width: 100%;
+}
+
+.estatisticas img{
+    margin-left: 5px;
+    height: 200px;
 }
