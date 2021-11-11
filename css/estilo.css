@@ -1,8 +1,12 @@
 body{
     background-color: black;
-    color: white;
+    color: mediumvioletred;
     font-family: Arial, Helvetica, sans-serif;
 
+}
+
+h1, h2{
+    color: dodgerblue;
 }
 
 main{
