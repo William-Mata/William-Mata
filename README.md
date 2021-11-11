@@ -25,9 +25,6 @@
                     sistemas
                     e tecnologia de forma geral<br>
     </p>
-    <div id="img">
-        <img src="img/computer-illustration.png" alt="Computador">
-    </div>
 </div>
 
 
