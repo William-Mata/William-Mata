@@ -5,7 +5,50 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/estilo.css">
+<style>
+body{
+    background-color: black;
+    color: mediumvioletred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2{
+    color: dodgerblue;
+}
+main{
+    margin: 10px;
+}
+.sobre{
+    width: 100%;
+    display: inline-flex;
+    margin: 0px;
+}
+.sobre p{
+    font-size: 18px;
+    width: 40%;
+    margin-left: 10px;
+}
+.sobre #img{
+    width: 50%;
+}
+.sobre img{
+    float: right;
+    width: 50%;
+    height: 250px;
+}
+.educacao img{
+    margin: 10px;
+    width: 80px;
+    height: 28px;
+}
+.estatisticas{
+    display: inline-flex;
+    width: 100%;
+}
+.estatisticas img{
+    margin-left: 5px;
+    height: 200px;
+}
+</style>
 
 </head>
 
