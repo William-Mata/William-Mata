@@ -4,13 +4,15 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../css/estilo.css">
 </head>
 
 <body>
 
 <main>
 <h1>👋 Oi seja bem vindo(a), sou @William-Mata</h1>
-<div class="sobre">
+
+<div class="container">
     <p>
                     -🌱 Analista e desenvolvedor de sistemas formado pela universidade Wyden Educacional. Atualmente,
                     integrante do programa Recode Pro, onde aprendemos a gerar soluções sustentáveis e inclusivas para
@@ -131,10 +133,10 @@ alt="Sublime">
 <a href="https://github.com/William-Mata/github-readme-stats">
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br"
                         alt="Top"></a>
+<p align="center"> Você é o visitante de numero </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/William-Mata/count.svg" /></p>
 
 </div>
-
-       
 
 </main>
 
