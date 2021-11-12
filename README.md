@@ -125,11 +125,11 @@ alt="Sublime">
 <h2>📊Estatísticas</h2>
 <div class="estatisticas">
 
-<img src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br"
+<img src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&theme=synthwave&title_color=synthwave&locale=pt-br"
                     alt="Estatísticas-Pagina">
 
 <a href="https://github.com/William-Mata/github-readme-stats">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&theme=synthwave&title_color=synthwave&locale=pt-br"
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br"
                         alt="Top"></a>
 
 </div>
