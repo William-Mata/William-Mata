@@ -1,7 +1,6 @@
-<main style="background:black; padding:10px">
 <h1>👋 Oi seja bem vindo(a), sou @William-Mata</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer William Mata">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer William Mata">
 <p>
 -🌱 Analista e desenvolvedor de sistemas formado pela universidade Wyden Educacional. Atualmente,
 integrante do programa Recode Pro, onde aprendemos a gerar soluções sustentáveis e inclusivas para
@@ -11,8 +10,7 @@ questões da sociedade através da tecnologia. <br>
 -💞️Possuo uma formação ampla e atualizada de acordo com as demandas do mercado, estou aberto a oportunidades na área de análise, desenvolvimento de sistemas e tecnologia de forma geral<br>
 </p>
 
-
-<h2 style="color:blue;">🎓📚 Educação</h2>
+<h2 text-color="blue">🎓📚 Educação</h2>
 
 <a href="https://www.wyden.com.br/unifavip">
 <img src="https://user-images.githubusercontent.com/50085652/141135219-716ed649-204b-40d9-af26-0b29fcc8401c.png"alt="Wyden"></a>
@@ -25,10 +23,10 @@ questões da sociedade através da tecnologia. <br>
 <a href="https://www.recodepro.org.br/">
 <img src="https://user-images.githubusercontent.com/50085652/141139764-4b71c06d-b250-4ed5-9bc7-def06b328d6c.png" alt="Recode Pro"></a>
 
-<h2 style="color:blue;>👨‍💻 Tecnologias - Que ainda uso</h2>
+<h2>👨‍💻 Tecnologias - Que ainda uso</h2>
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="ECLIPSE">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=with" alt="JAVA">
@@ -40,30 +38,27 @@ questões da sociedade através da tecnologia. <br>
 <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Microsoft Edge">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">
+<div>
 
-
-<br>
-<hr>
 <h2>👨‍💻 Tecnologias - Que já utilizei</h2>
-<hr>
+
+<div style="display:flex">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android-Studio">
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"alt="NotePad++">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"
-alt="Sublime">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"alt="VS">
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"alt="Apache">
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="NotePad++">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS">
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"alt="C++">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"alt="C#">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"alt="PHP">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL-LITE">
-
-<br>
-<hr>
+<div>
+  
 <h2> 📫 Entre em contato comigo</h2>
-<hr>
-<div style="display: "flex"">
+
+<div style="display:flex">
 <a href="https://www.linkedin.com/in/william-de-mata-da-silva-285a42185/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="william.xavante@gmail.com">
@@ -71,28 +66,21 @@ alt="Sublime">
 <a href="https://github.com/William-Mata">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <div>
-
-<br> 
-<hr>
+  
 <h2>🎶 I Love Music</h2>
-<hr>
+                                                                                                                  
 <a href="https://www.youtube.com/watch?v=bZTwKUJDU1M">
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Musica-Pontes-Industrutiveis"><br>
-
 <img src="https://user-images.githubusercontent.com/50085652/140649703-0b9de086-fd90-4169-8bbd-40bd2e838707.jpg" alt="Charlie-Bronw-jr"></a>
 
-<br>
-<hr>
 <h2>📊Estatísticas</h2>
-<hr>
-<div style="display: "flex"">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&theme=synthwave&title_color=synthwave&locale=pt-br"
-alt="Estatísticas-Pagina">
 
+<div style="display:flex">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Estatísticas-Pagina">
+  
 <a href="https://github.com/William-Mata/github-readme-stats">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br"alt="Top"></a>
 </div>
-  
-<p align="center"> Você é o visitante de numero </p>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/William-Mata/count.svg" /></p>
-<main>
+
+  <p align="center"> Você é o visitante de numero </p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/William-Mata/count.svg"></p>
