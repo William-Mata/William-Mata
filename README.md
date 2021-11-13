@@ -10,7 +10,7 @@ questões da sociedade através da tecnologia. <br>
 -💞️Possuo uma formação ampla e atualizada de acordo com as demandas do mercado, estou aberto a oportunidades na área de análise, desenvolvimento de sistemas e tecnologia de forma geral<br>
 </p>
 
-<h2 text-color="blue">🎓📚 Educação</h2>
+<h2>🎓📚 Educação</h2>
 
 <a href="https://www.wyden.com.br/unifavip">
 <img src="https://user-images.githubusercontent.com/50085652/141135219-716ed649-204b-40d9-af26-0b29fcc8401c.png"alt="Wyden"></a>
@@ -56,7 +56,7 @@ questões da sociedade através da tecnologia. <br>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL-LITE">
 <div>
   
-<h2> 📫 Entre em contato comigo</h2>
+<h2>📫 Entre em contato comigo</h2>
 
 <div style="display:flex">
 <a href="https://www.linkedin.com/in/william-de-mata-da-silva-285a42185/">
@@ -79,8 +79,8 @@ questões da sociedade através da tecnologia. <br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Estatísticas-Pagina">
   
 <a href="https://github.com/William-Mata/github-readme-stats">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br"alt="Top"></a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Top"></a>
 </div>
 
-  <p align="center"> Você é o visitante de numero </p>
+<p align="center"> Você é o visitante de numero </p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/William-Mata/count.svg"></p>
