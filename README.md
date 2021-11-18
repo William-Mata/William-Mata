@@ -83,4 +83,4 @@ questões da sociedade através da tecnologia. <br>
 </div>
 
 <p align="center"> Você é o visitante de numero </p>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/William-Mata/count.svg"></p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/WilliamMata/count.svg"></p>
