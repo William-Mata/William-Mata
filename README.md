@@ -81,8 +81,8 @@ questões da sociedade através da tecnologia. <br>
                                                                                                                   
 <a href="https://www.youtube.com/watch?v=bZTwKUJDU1M">
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Musica-Pontes-Industrutiveis"><br>
-<img src="https://user-images.githubusercontent.com/50085652/140649703-0b9de086-fd90-4169-8bbd-40bd2e838707.jpg" alt="Charlie-Bronw-jr"></a>
-
+</a>
+<img src="https://user-images.githubusercontent.com/50085652/140649703-0b9de086-fd90-4169-8bbd-40bd2e838707.jpg" alt="Charlie-Bronw-jr">
 <h2>📊Estatísticas</h2>
 
 <div style="display:flex">
