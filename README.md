@@ -2,10 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer William Mata">
 <p>
--🌱 Analista e desenvolvedor de sistemas formado pela universidade Wyden Educacional. Atualmente,
-integrante do programa Recode Pro, onde aprendemos a gerar soluções sustentáveis e inclusivas para
+-🌱 Analista e desenvolvedor de sistemas formado pela universidade Wyden Educacional. Recém-formado como desenvolvedor Full Stack no programa Recode Pro, onde aprendemos a gerar soluções sustentáveis e inclusivas para
 questões da sociedade através da tecnologia. <br>
--👀 Sempre em busca de novos conhecimentos, busco me expandir através de projetos e programas de desenvolvimento pessoal.
+-👀 Sempre em busca de novos conhecimentos, busco me expandir através de projetos, cursos e programas de desenvolvimento pessoal.
 <br>
 -💞️Possuo uma formação ampla e atualizada de acordo com as demandas do mercado, estou aberto a oportunidades na área de análise, desenvolvimento de sistemas e tecnologia de forma geral<br>
 </p>
