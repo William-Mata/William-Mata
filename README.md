@@ -78,7 +78,7 @@ questões da sociedade através da tecnologia. <br>
   
 <h2>🎶 I Love Music</h2>
                                                                                                                   
-<a href="https://www.youtube.com/watch?v=bZTwKUJDU1M">
+<a href="https://www.youtube.com/watch?v=ulO5opUXnBk">
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Musica-Pontes-Industrutiveis"><br>
 </a>
 <img src="http://pm1.narvii.com/7615/d5a84066a39b6036c353231e8ba615cacf71e045r1-720-720v2_uhq.jpg" alt="Charlie-Bronw-jr">
