@@ -89,7 +89,7 @@ questões da sociedade através da tecnologia. <br>
 <div style="display:flex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Estatísticas-Pagina">
   <a href="https://github.com/William-Mata/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-      Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Top">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Top">
   </a>
 </div>
 
