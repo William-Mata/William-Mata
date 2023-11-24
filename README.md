@@ -2,11 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer William Mata">
 <p>
--🌱 Analista e desenvolvedor de sistemas formado pela universidade Wyden Educacional. Recém-formado como desenvolvedor Full Stack no programa Recode Pro, onde aprendemos a gerar soluções sustentáveis e inclusivas para
-questões da sociedade através da tecnologia. <br>
--👀 Sempre em busca de novos conhecimentos, busco me expandir através de projetos, cursos e programas de desenvolvimento pessoal.
-<br>
--💞️Possuo uma formação ampla e atualizada de acordo com as demandas do mercado, estou aberto a oportunidades na área de análise, desenvolvimento de sistemas e tecnologia de forma geral<br>
+🌱 Profissional graduado em Análise e Desenvolvimento de Sistemas pela Universidade UNIFAVIP, com uma base acadêmica sólida. Além da graduação, concluí o programa de Desenvolvimento Full Stack na instituição Recode Pro, aprimorando minhas habilidades técnicas e práticas. Atualmente, integro a equipe de desenvolvimento de sistemas em um ambiente profissional. <br>
+👀 Sempre em busca de atualizações, continuo aprimorando meus conhecimentos por meio dos cursos oferecidos pela plataforma Alura, buscando estar em sintonia com as últimas tendências e melhores práticas no campo do desenvolvimento de software.<br>
+💞️Possuo uma formação ampla e atualizada, alinhada com as demandas do mercado. Estou aberto a oportunidades na área de análise, desenvolvimento de sistemas e tecnologia em geral. Meu compromisso persiste em contribuir de maneira significativa para o dinâmico e desafiador ambiente tecnológico.<br>
 </p>
 
 <h2>🎓📚 Educação</h2>
@@ -85,7 +83,7 @@ questões da sociedade através da tecnologia. <br>
 <a href="https://www.youtube.com/watch?v=ulO5opUXnBk">
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Musica-Pontes-Industrutiveis"><br>
 </a>
-<img src="https://scontent.fsdu29-1.fna.fbcdn.net/v/t1.6435-9/123214805_4616924328379695_6034983986218910610_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iUhNQNBCOR4AX8VzNEx&_nc_ht=scontent.fsdu29-1.fna&oh=00_AfCR2IX8zKiT2aP3aqKX7fG7T6LZ0p_eEzk22X_r8OZmrQ&oe=654D6F6E" alt="Charlie-Bronw-jr">
+<img src="https://github.com/William-Mata/William-Mata/assets/50085652/ba27131f-8da7-4ff9-9cea-05bc8787bc3a" alt="Charlie-Bronw-jr">
 
 <h2>📊Estatísticas</h2>
 
