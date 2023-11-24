@@ -23,6 +23,9 @@ questões da sociedade através da tecnologia. <br>
 <a href="https://www.recodepro.org.br/">
   <img src="https://user-images.githubusercontent.com/50085652/141139764-4b71c06d-b250-4ed5-9bc7-def06b328d6c.png" alt="Recode Pro">
 </a>
+<a href="https://cursos.alura.com.br/">
+  <img src="https://github.com/William-Mata/William-Mata/assets/50085652/e1bad30f-6403-464b-a0dd-0239acdefd8e" alt="Alura">
+</a>
 
 <h2>👨‍💻 Tecnologias - Que ainda uso</h2>
 
