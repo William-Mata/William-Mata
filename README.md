@@ -1,99 +1,164 @@
-<h1>👋 Oi seja bem vindo(a), sou @William-Mata</h1>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer William Mata">
-<p>
-🌱 Profissional graduado em Análise e Desenvolvimento de Sistemas pela Universidade UNIFAVIP, com uma base acadêmica sólida. Além da graduação, concluí o programa de Desenvolvimento Full Stack na instituição Recode Pro, aprimorando minhas habilidades técnicas e práticas. Atualmente, integro a equipe de desenvolvimento de sistemas em um ambiente profissional. <br>
-👀 Sempre em busca de atualizações, continuo aprimorando meus conhecimentos por meio dos cursos oferecidos pela plataforma Alura, buscando estar em sintonia com as últimas tendências e melhores práticas no campo do desenvolvimento de software.<br>
-💞️Possuo uma formação ampla e atualizada, alinhada com as demandas do mercado. Estou aberto a oportunidades na área de análise, desenvolvimento de sistemas e tecnologia em geral. Meu compromisso persiste em contribuir de maneira significativa para o dinâmico e desafiador ambiente tecnológico.<br>
-</p>
+# 👋 Olá, eu sou William de Mata
 
-<h2>🎓📚 Educação</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full-Stack;.NET+%7C+Angular+%7C+SQL+Server+%7C+MongoDB;Docker+%7C+GitLab+CI%2FCD+%7C+RabbitMQ;Integra%C3%A7%C3%B5es+%7C+Automa%C3%A7%C3%A3o+%7C+Sistemas+Corporativos" alt="Typing SVG" />
 
-<a href="https://www.wyden.com.br/unifavip">
-  <img src="https://user-images.githubusercontent.com/50085652/141135219-716ed649-204b-40d9-af26-0b29fcc8401c.png"alt="Wyden">
-</a>
-<a href="https://www.cursoemvideo.com/">
-  <img src="https://user-images.githubusercontent.com/50085652/141146138-17b23946-fc05-41d0-b5f9-bc1cf9818d8b.png"alt="CursoEmVideo">
-</a>
-<a href="https://www.ev.org.br/">
-  <img src="https://user-images.githubusercontent.com/50085652/141141290-8bc34fc0-afc7-43fb-971d-b26edb5102ef.png" alt="Fundação Bradesco">
-</a>
-<a href="https://www.recodepro.org.br/">
-  <img src="https://user-images.githubusercontent.com/50085652/141139764-4b71c06d-b250-4ed5-9bc7-def06b328d6c.png" alt="Recode Pro">
-</a>
-<a href="https://cursos.alura.com.br/">
-  <img src="https://github.com/William-Mata/William-Mata/assets/50085652/e1bad30f-6403-464b-a0dd-0239acdefd8e" alt="Alura">
-</a>
+**Analista e Desenvolvedor de Sistemas Full-Stack**  
+Foco em **.NET, Angular, integrações, automação, CI/CD e sistemas corporativos de missão crítica**.
 
-<h2>👨‍💻 Tecnologias - Que ainda uso</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Mata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-mata/)
+[![GitHub](https://img.shields.io/badge/GitHub-William--Mata-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/William-Mata)
+[![Email](https://img.shields.io/badge/Email-william.xavante%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.xavante@gmail.com)
 
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASPNET">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL SERVER">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGO DB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VS">
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="ANGULAR JS">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office">
-<div>
-
-<h2>👨‍💻 Tecnologias - Que já utilizei </h2>
-
-<div style="display:flex">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
-
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="SPRINGBOOT">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=with" alt="JAVA">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="ECLIPSE">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android-Studio">
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="NotePad++">
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL-LITE">
-<div>
-  
-<h2>📫 Entre em contato comigo</h2>
-
-<div style="display:flex">
-  <a href="https://www.linkedin.com/in/william-mata/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-  <a href="william.xavante@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/William-Mata">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-<div>
-  
-<h2>Música 🎶</h2>
-                                                                                                                  
-<a href="https://www.youtube.com/watch?v=ulO5opUXnBk">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Musica-Pontes-Industrutiveis"><br>
-</a>
-<img src="https://github.com/William-Mata/William-Mata/assets/50085652/ba27131f-8da7-4ff9-9cea-05bc8787bc3a" alt="Charlie-Bronw-jr">
-
-<h2>📊Estatísticas</h2>
-
-<div style="display:flex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=William-Mata&show_icons=true&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Estatísticas-Pagina">
-  <a href="https://github.com/William-Mata/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mata&layout=compact&langs_count=8&theme=synthwave&title_color=synthwave&locale=pt-br" alt="Top">
-  </a>
 </div>
 
-<p align="center"> Você é o visitante de numero </p>
-<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/WilliamMata/count.svg"></p>
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor Full-Stack com experiência em **sistemas corporativos**, atuando principalmente na construção, manutenção e evolução de aplicações que exigem **confiabilidade, disponibilidade e integração entre sistemas**.
+
+Tenho forte vivência com o ecossistema **.NET**, desenvolvimento front-end com **Angular**, bancos de dados relacionais e NoSQL, além de práticas de **DevOps**, automação de deploys, Docker, GitLab CI/CD, RabbitMQ e observabilidade.
+
+Gosto de atuar em problemas reais de negócio, principalmente onde desenvolvimento, arquitetura, infraestrutura e automação se conectam.
+
+> **"Eu faço da dificuldade a minha motivação."**
+
+---
+
+## 💼 Principais frentes de atuação
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🔗 Integrações</h3>
+      <p>Desenvolvimento e sustentação de integrações entre sistemas internos e externos, com foco em disponibilidade, performance e confiabilidade.</p>
+    </td>
+    <td width="33%">
+      <h3>⚙️ Backend & APIs</h3>
+      <p>Criação e manutenção de aplicações com C#, .NET Framework, .NET Core, SQL Server, MongoDB e boas práticas de evolução técnica.</p>
+    </td>
+    <td width="33%">
+      <h3>🚢 DevOps & Deploy</h3>
+      <p>Automação de pipelines CI/CD, publicação em ambientes Linux/Windows, uso de Docker, GitLab Runners e estratégias de rollback.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Experiência em destaque
+
+- Desenvolvimento e manutenção de sistemas corporativos de missão crítica.
+- Integrações entre sistemas jurídicos, financeiros e serviços externos.
+- Migração de projetos do **SVN/GitHub para GitLab**.
+- Criação e manutenção de pipelines **GitLab CI/CD**.
+- Uso de **Docker** para padronização de ambientes e deploys.
+- Implementação de **RabbitMQ Cluster** para alta disponibilidade.
+- Apoio em modernização e refatoração de aplicações legadas em .NET.
+- Implementação de relatórios em **PDF e Excel**.
+- Experiência com **OCR**, automação de leitura e extração de dados.
+- Atuação anterior em sistema financeiro com conciliação bancária, extrato de conta, CNAB e integração bancária.
+
+---
+
+## 🛠️ Stack principal
+
+### Back-end
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### Front-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Banco de Dados
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps, Infraestrutura & Observabilidade
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### Versionamento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+<table>
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/William-Mata/Core">Core</a>
+      </h3>
+      <p>Projeto backend em C#, utilizado para estudos e evolução de arquitetura, APIs e boas práticas no ecossistema .NET.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/William-Mata/Core-Front">Core-Front</a>
+      </h3>
+      <p>Aplicação multiplataforma de gestão pessoal e financeira, desenvolvida com React Native, Expo e TypeScript, com foco em Web, Android e iOS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 📚 Em evolução contínua
+
+Atualmente sigo aprofundando meus estudos em:
+
+- Arquitetura de aplicações com **.NET**.
+- Desenvolvimento front-end com **Angular**.
+- Autenticação segura, APIs REST e boas práticas de backend.
+- Docker, Linux, CI/CD e observabilidade.
+- OCR, automação de processos e LLMs locais com **Ollama**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Mata&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 👨‍💻
+
+**Aberto a conexões, troca de conhecimento e oportunidades na área de tecnologia.**
+
+</div>
